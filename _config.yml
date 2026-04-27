@@ -139,6 +139,7 @@ external_sources:
     categories: [external-posts]
     tags: [google]
 
+
 # -----------------------------------------------------------------------------
 # Newsletter
 # -----------------------------------------------------------------------------
@@ -203,6 +204,10 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _bibliography/
+  - _pages/publications.md
+  - _pages/repositories.md
+  - _projects/?_project.md
 keep_files:
   - CNAME
   - .nojekyll
