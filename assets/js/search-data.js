@@ -437,11 +437,16 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-thank-you-ma-39-am-unit-and-lesson",
+          section: "News",},{id: "projects-jackalope-wives-folklore-unit-and-lesson",
+          title: 'Jackalope Wives Folklore Unit and Lesson',
+          description: "with extra lesson on gender norms.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Jackalope%20Wives/";
+            },},{id: "projects-thank-you-ma-39-am-unit-and-lesson",
           title: 'Thank You Ma&amp;#39;am Unit and Lesson',
           description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project%20copy/";
+              window.location.href = "/projects/Thank%20You%20Ma'am/";
             },},{id: "teachings-data-science-fundamentals",
           title: 'Data Science Fundamentals',
           description: "This course covers the foundational aspects of data science, including data collection, cleaning, analysis, and visualization. Students will learn practical skills for working with real-world datasets.",
