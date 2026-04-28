@@ -2,7 +2,7 @@
 layout: page
 title: Jackalope Wives Folklore Unit and Lesson
 description: with extra lesson on gender norms.
-img: assets/img/JWpic.jpg
+img: assets/img/jwpic.jpg
 importance: 1
 category: work
 ---
@@ -21,7 +21,7 @@ This is a mini unit on the fairy tale genre within folklore and how modern autho
 
   <div class="col-md-4 mt-3 mt-md-0">
     <embed
-      src="/assets/pdf/JW_lp1.pdf"
+      src="/assets/pdf/jw_lp1.pdf"
       type="application/pdf"
       width="100%"
       height="500px">
