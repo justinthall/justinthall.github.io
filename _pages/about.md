@@ -5,7 +5,7 @@ permalink: /
 subtitle: This is a WIP site...
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>OSU (future)Grad: Integrated Language Arts 7-12</p>
@@ -29,6 +29,18 @@ Yeah, this is a massive WIP, mostly because I have to prune all of the crap I do
 
 
 I'm a (soon to be) teacher looking for a job. My teaching passions are below, and they define the teacher I want to be. There are multiple lesson plans [linked here]({{ '/projects/' | relative_url }}). 
+
+So far I've been placed at:
+
+**Franklin Heights High School, Columbus:** Grade 10 ELA classroom.
+
+**The Wellington School, Columbus:** grade 7 ELA classroom.
+
+**Dominion Middle, Columbus:** grades 7 and 8 ELA classroom.
+
+
+
+
 
 
 Outside the field, I'm an avid TTRPG player, reader, and media enjoyer. 
