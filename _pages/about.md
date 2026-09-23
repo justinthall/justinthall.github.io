@@ -40,9 +40,6 @@ So far I've been placed at:
 
 
 
-
-
-
 Outside the field, I'm an avid TTRPG player, reader, and media enjoyer. 
 
 # My Teaching Cornerstones
